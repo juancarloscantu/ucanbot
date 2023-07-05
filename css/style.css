@@ -1,4 +1,11 @@
-body {
-    font-family: 'Bebas Neue', sans-serif;
+* {
+    font-family: 'Rubik', sans-serif;
+    color: aliceblue;
+}
+
+
+.icon-style {
+    font-size: 3rem;
+    color: #07bc0c;
     
 }
